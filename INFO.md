@@ -1,1 +1,3 @@
-git is awesome! experiment with amend new data
+git is awesome!
+experiment with ammend
+new data
